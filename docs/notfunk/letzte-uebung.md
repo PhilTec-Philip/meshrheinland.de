@@ -1,5 +1,8 @@
 ---
+sidebar_position: 2
+sidebar_label: Letzte Notfunkübung
 title: Notfunkübung Bonn am 12. März 2026 (Landesweiter Warntag NRW)
+description: Details und Ablauf der Notfunkübung Bonn am 12. März 2026 anlässlich des Landesweiten Warntags NRW.
 ---
 
 # Notfunkübung Bonn am 12. März 2026
@@ -66,10 +69,6 @@ Die Leitstelle ist auf dem Kanal **emergency** erreichbar. Der Ablauf orientiert
 Alle Funkamateure und Hobbyfunker im Großraum Bonn sind willkommen – unabhängig von Erfahrung oder Ausrüstung. Die Übung dient der Vorbereitung auf echte Notfallsituationen und dem Austausch untereinander.
 
 ---
-
-**Wir freuen uns auf eure Teilnahme!**
-
-73 und viel Erfolg bei der Notfunkübung!
 
 *Mathias, DL3KE*<br/>
 *Notfunkreferent im DARC Distrikt G, Notfunk Bonn*
