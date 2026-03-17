@@ -81,11 +81,11 @@ In zufälliger Reihenfolge: Franz-Peter, Ulli, Martin, Linus, Martin, Marcus E.,
       <strong>Leverkusen am 12. März 2026 (Landesweiter Warntag NRW)</strong>
    </summary>
 
-Am Donnerstag, 12.03.2026 war landesweiter Warntag – und wir waren dabei!
-Während um 11:00 Uhr die Sirenen heulten, lief bei uns die Notfunk-Leitstelle DL0THO/p auf Hochtouren.
-In Leverkusen beteiligten sich 14 Stationen in der Zeit von 10:45 Uhr – 12:45 Uhr auf der Frequenz, 145,3625 MHZ (Notfunkverkehrskreis) am landesweiten Warntag. Weitere Stationen meldeten sich per Signal und Whats App mit ihren Infos in der Leistelle.
+Zum landesweiten Warntag am **12. März 2026** war auch die Notfunkgruppe in Leverkusen aktiv. Während ab **11:00 Uhr** die Warnmittel ausgelöst wurden, arbeitete die mobile Leitstelle **DL0THO/p** unter realistischen Bedingungen.
 
-Alle Meldungen bezüglich der Hörbarkeit von Sirenen und Handy-Warnungen wurden in der Notfunkleitstelle dokumentiert. Die Auswertung wir dem Bevölkerungsschutz zur Verfügung gestellt. Rückmeldungen aus den anderen Notfunkkreisen des Distriktes bestätigten insgesamt eine hohe Beteiligung und verstärktes Interesse am Notfunk. Für uns ist der Warntag die perfekte Übung, um unser Konzept der mobilen und autarken Leitstelle zu testen. Ein großes Dankeschön an alle Funkfreunde für die professionelle Beteiligung!
+Auf **145,3625 MHz** beteiligten sich zwischen **10:45 Uhr und 12:45 Uhr** insgesamt **14 Stationen** am Notfunkverkehrskreis. Zusätzliche Rückmeldungen gingen über Signal und WhatsApp bei der Leitstelle ein.
+
+Erfasst wurde vor allem, wie gut Sirenen und Warnmeldungen auf Mobiltelefonen wahrgenommen wurden. Diese Ergebnisse werden dem Bevölkerungsschutz zur Verfügung gestellt. Auch aus anderen Notfunkkreisen des Distrikts kamen positive Rückmeldungen, was auf eine gute Beteiligung und wachsendes Interesse am Thema Notfunk hindeutet. Für das Team in Leverkusen war der Warntag damit zugleich ein praxisnaher Test der mobilen und autarken Leitstelle.
 
 Gemeinsam stärken wir den Bevölkerungsschutz in Leverkusen.
 
@@ -103,17 +103,17 @@ Gemeinsam stärken wir den Bevölkerungsschutz in Leverkusen.
       <strong>Leverkusen am 21. Februar 2026 (Notfunkübung des Distrikts G)</strong>
    </summary>
 
-Der während der **Notfunkübung des Disterikts G, Köln/Aachen am 21.Februar 2026** erstmals durchgeführte Meshtastic Test hat eine größtenteils erfolgreiche 1-zu-1 Kommunikation von den jeweiligen KIEZ-Betreungspunkten zur Leitstelleund zurück aufzeigen können.
+Im Rahmen der **Notfunkübung des Distrikts G Köln/Aachen am 21. Februar 2026** wurde in Leverkusen erstmals ein gezielter **Meshtastic-Test** durchgeführt. Ziel war es, die Kommunikation zwischen den KIEZ-Betreuungspunkten und der Leitstelle unter Praxisbedingungen zu erproben.
 
-In Summe konnte von den acht angefahrenen Standorten von sieben aus eine Hin- und Rücknachricht zwischen Leitstelle und mobilem Knoten ausgetauscht werden.
+Das Ergebnis fiel überwiegend positiv aus: Von **acht angefahrenen Standorten** konnten an **sieben** Standorten Nachrichten erfolgreich zur Leitstelle und wieder zurück übermittelt werden. Die direkte 1-zu-1-Kommunikation zwischen mobilem Knoten und Leitstelle funktionierte damit in den meisten Fällen zuverlässig.
 
-Gleichzeitig zeigte der Test aber auch Schwächen des in Meshtastic verwendeten Routings auf, sowie Hürden, welche durch die individuelle Konfiguration der im Mesh-Verbund teilnehmenden Knotenpunkte entstehen können. So konnten Nachrichten in dem eigens angelegten Nachrichtenkanal "Notfunk-G11" nur teilweise erfolgreich zur Leitstelle übertragen werden.
+Die Übung machte aber auch deutlich, wo Meshtastic im Notfunkkontext noch Grenzen hat. Schwierigkeiten zeigten sich vor allem beim Routing sowie bei unterschiedlich konfigurierten Knoten im Mesh-Verbund. Dadurch wurden Nachrichten im eigens eingerichteten Kanal **"Notfunk-G11"** nur teilweise erfolgreich bis zur Leitstelle weitergeleitet.
 
-Auch im öffentlichen Kanal "ShortSlow" kamen die gesendeten Nachrichten nur teilweise an. Dies zeigt, dass die 1-zu-N Kommunikation in Meshtastic herausfordernd sein kann. Wir werden weitere Tests durchführen, wie etwa mit MeshCore, was sich zum Beispiel im Raum Bonn während der Übung als deutlich zuverlässiger erwiesen hat.
+Auch im öffentlichen Kanal **"ShortSlow"** kamen nicht alle Meldungen wie gewünscht an. Das unterstreicht, dass gerade 1-zu-N-Kommunikation in Meshtastic anspruchsvoll sein kann. Weitere praktische Tests sind deshalb vorgesehen. Dabei sollen auch alternative Ansätze wie **MeshCore** weiter betrachtet werden, das sich bei der Übung im Raum Bonn als robuster erwiesen hat.
 
 [Der ausführliche Bericht kann hier angesehen und/oder herunterladen werden.](https://www.darc.de/fileadmin/filemounts/distrikte/g/ortsverbaende/11/Content/2026/2026_02_Notfunk%C3%BCbung_mit_Meshtastic_Test_in_Leverkusen_-_Fazit.pdf)
 
-Stay tuned für weitere Information
+Weitere Informationen folgen.
 
 [Artikel auf G11-Seite](https://www.darc.de/der-club/distrikte/g/ortsverbaende/11/nachrichten-details/news/notfunkuebung-2026-meshtastic-auf-dem-pruefstand/)
 
